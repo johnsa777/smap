@@ -3,7 +3,7 @@
 PURPOSE: quickly scan a network and create a xls output
 
 OPERATION:
-Run python script "smapScript.py" using python as root.
+`sudo python2 smapScript.py`
 Time-stamped output files will be created inside the same directory.
 Open .csv file for a summary of the scan. Tested in Fedora and Kali.
 
